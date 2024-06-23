@@ -1,2 +1,2 @@
 # svelteImageGallery
-An image gallery built to learn some of svelte
+A Frieren image gallery built to learn some of SvelteJS
